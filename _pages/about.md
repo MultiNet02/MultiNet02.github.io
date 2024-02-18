@@ -52,3 +52,35 @@ AutoML
 
 For more info
 ------
+<div align="right ">
+     <a href='https://clustrmaps.com/site/1bf58' title='Visit tracker'>
+     <img src='https://www.clustrmaps.com/map_v2.png?d=BFBjSbT1KaltAbw-Cg8xRH3-y_tGZd94iCdQdZQGTxE&cl=ffffff' style="height: 50%;width: -50%;" /></a>
+</div>
+<footer id="footer" class="p-3">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-9">
+                    <div class="row mb-lg-4 mt-2">
+                        <div class="col">
+                            <strong>Future Intelligence laB</strong><br>
+                            <i class="bi bi-house"></i>
+                            Rohm Building 10-202, Tsinghua University, Beijing, 100084, China. <br>
+                            <i class="bi bi-telephone"></i></span> +86 10 62772387 <br>
+                            <i class="bi bi-envelope"></i> liyong07@tsinghua.edu.cn
+                        </div>
+                    </div>
+                    <div class="row mt-lg-4">
+                        <div class="col">
+                            <strong>Copyright (c) FIB-Lab, 2011-2024</strong>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3">
+                    <a href="http://www2.clustrmaps.com/user/ec510e2ad"><img
+                            src="http://www2.clustrmaps.com/stats/maps-no_clusters/fi.ee.tsinghua.edu.cn-thumb.jpg"
+                            alt="Locations of visitors to this page" style="width:240px;height:150px;" /></a>
+                    </noscript>
+                </div>
+            </div>
+        </div>
+    </footer>
