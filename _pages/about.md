@@ -11,7 +11,8 @@ redirect_from:
  
  
  
-Hi there! My name is Jiachen Guo, and I am a junior undergraduate student pursuing a bachelor's degree in Electronic Engineering from Harbin Institute of Technology. 
+Hi there! My name is Jiachen Guo, and I am a junior undergraduate student pursuing a bachelor's degree in Electronics Science and Engineering from Harbin Institute of Technology. I am keen on finding the shortest path for efficient and effective learning in the network composed by college courses and all materials about Mathematics, Physics, Electrical Engineering and Computer Science. [Here]() is my courses studied, referring [UCB EECS](https://hkn.eecs.berkeley.edu/assets/course-map-2019-da79ecbe2fc25e6b6349b8931364890032b8d51aacaccea65151ae98316f0587.png) and [THU EE](https://www.ee.tsinghua.edu.cn/__local/8/45/D5/C250657FF930A2B3FC5F593B31D_58753221_5024D.png) and inspired by [Zeyuan Allen-Zhu](http://zeyuan.allen-zhu.com). I have released my notes in "AllinMe4-It" serial github repositories. <br>
+曰：“嗟大戀之所存，故雖哲而不忘”，雁過留痕，庶幾無悔。
 
 Research Interests
 ======
@@ -45,6 +46,7 @@ The main objective of my PhD study is the exploration and development of data-ef
 
 Open-source Projects
 ======
+AllinMe4-It
 DGL
 PyG
 AutoML
@@ -52,35 +54,4 @@ AutoML
 
 For more info
 ------
-<div align="right ">
-     <a href='https://clustrmaps.com/site/1bf58' title='Visit tracker'>
-     <img src='https://www.clustrmaps.com/map_v2.png?d=BFBjSbT1KaltAbw-Cg8xRH3-y_tGZd94iCdQdZQGTxE&cl=ffffff' style="height: 50%;width: -50%;" /></a>
-</div>
-<footer id="footer" class="p-3">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-9">
-                    <div class="row mb-lg-4 mt-2">
-                        <div class="col">
-                            <strong>Future Intelligence laB</strong><br>
-                            <i class="bi bi-house"></i>
-                            Rohm Building 10-202, Tsinghua University, Beijing, 100084, China. <br>
-                            <i class="bi bi-telephone"></i></span> +86 10 62772387 <br>
-                            <i class="bi bi-envelope"></i> liyong07@tsinghua.edu.cn
-                        </div>
-                    </div>
-                    <div class="row mt-lg-4">
-                        <div class="col">
-                            <strong>Copyright (c) FIB-Lab, 2011-2024</strong>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3">
-                    <a href="http://www2.clustrmaps.com/user/ec510e2ad"><img
-                            src="http://www2.clustrmaps.com/stats/maps-no_clusters/fi.ee.tsinghua.edu.cn-thumb.jpg"
-                            alt="Locations of visitors to this page" style="width:240px;height:150px;" /></a>
-                    </noscript>
-                </div>
-            </div>
-        </div>
-    </footer>
+
