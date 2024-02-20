@@ -11,7 +11,7 @@ redirect_from:
  
  
  
-Hi there! My name is Jiachen Guo, and I am a junior undergraduate student pursuing a bachelor's degree in Electronics Science and Engineering from [Harbin Institute of Technology](https://sa.hit.edu.cn/main.htm). <br>I am keen on finding the shortest path for efficient and effective learning in the network composed by college courses and all materials about Mathematics, Physics, Electrical Engineering and Computer Science. [Here]() is my courses studied, referring [UCB EECS](https://hkn.eecs.berkeley.edu/assets/course-map-2019-da79ecbe2fc25e6b6349b8931364890032b8d51aacaccea65151ae98316f0587.png) and [THU EE](https://www.ee.tsinghua.edu.cn/__local/8/45/D5/C250657FF930A2B3FC5F593B31D_58753221_5024D.png) and inspired by [Zeyuan Allen-Zhu](http://zeyuan.allen-zhu.com). I have released my notes in "AllinMe4-It" serial github repositories. <br>
+Hi there! My name is Jiachen Guo, and I am a junior undergraduate student pursuing a bachelor's degree in Electronics Science and Engineering from [Harbin Institute of Technology](https://sa.hit.edu.cn/main.htm). <br>I am keen on finding the shortest path for efficient and effective learning in the network composed by college courses and all materials about Mathematics, Physics, Electrical Engineering and Computer Science. [This graph]() is my courses studied, referring [UCB EECS](https://hkn.eecs.berkeley.edu/assets/course-map-2019-da79ecbe2fc25e6b6349b8931364890032b8d51aacaccea65151ae98316f0587.png) and [THU EE](https://www.ee.tsinghua.edu.cn/__local/8/45/D5/C250657FF930A2B3FC5F593B31D_58753221_5024D.png) and inspired by [Zeyuan Allen-Zhu](http://zeyuan.allen-zhu.com). I have released my notes in "AllinMe4-It" serial github repositories. <br>
 曰：“嗟大戀之所存，故雖哲而不忘”，雁過留痕，庶幾無悔。
 
 Research Interests
@@ -46,6 +46,13 @@ DGL
 PyG
 AutoML
 
+Recommended Reading list
+======
+* Lippmann's _Public Opinion_, [a recommended criticism](https://kortina.nyc/notes/public-opinion/)
+* Feng Youlan's _A History of Chinese Philosophy_
+* Michael Nielsen's [_Neural Networks and Deep Learning_](http://neuralnetworksanddeeplearning.com/), [a fun working note](https://michaelnotebook.com/cosmos/index.html)
+* to be update ……
+  
 For more info
 ------
 
