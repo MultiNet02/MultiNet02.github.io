@@ -66,11 +66,11 @@ Recommended Reading list
 * Deleuze's [_Postscript on the Societies of Control_](https://www.jstor.org/stable/778828), [Lectures as a guide for _Difference and Repetition_](https://henrysomershall.net/lectures/)
 * to be update ……
   
-
-曰：“嗟大戀之所存，故雖哲而不忘”，雁過留痕，庶幾無悔。
-
 For more info
 ======
+曰：“嗟大戀之所存，故雖哲而不忘”，雁過留痕，庶幾無悔。
+
+
 *
 *
 *
