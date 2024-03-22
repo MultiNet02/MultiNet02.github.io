@@ -20,7 +20,6 @@ I am keen on finding the shortest path for efficient and effective learning in t
   <hr style="margin:0.2em 0em 0.2em">
   <ul style="margin:0.5em -0.5em 0.5em">
     <li><strong>Aug. 2023</strong>: I am involved in "Chinese Academy of Sciences(CAS) Undergraduate Innovation and Practice Training Program".</li>
-    <li><strong>To be Updating</strong>: </li>
 </ul></div></div>
 
 
@@ -65,7 +64,7 @@ Recommended Reading list
 * Michael Nielsen's [_Neural Networks and Deep Learning_](http://neuralnetworksanddeeplearning.com/), [a fun working note](https://michaelnotebook.com/cosmos/index.html)
 * Schopenhauer's _The World As Will and Representation_
 * Deleuze's [_Postscript on the Societies of Control_](https://www.jstor.org/stable/778828), [Lectures as a guide for _Difference and Repetition_](https://henrysomershall.net/lectures/)
-* to be updating ……
+* to be updated ……
   
 For more info
 ======
